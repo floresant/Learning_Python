@@ -14,8 +14,7 @@ while True:
         print("Please input an integer.")
 
 for i in range(0, num, skip):
+    print(i)
     if i + skip > num:
         print(f"Cannot count to {num} evenly by {skip}'s, stops at {i} with remainder {num - i}")
         break
-    else:
-        print(i)
