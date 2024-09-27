@@ -1,4 +1,5 @@
-# Count by numbers up to a number
+# Count up to a number by skipping by a number
+
 while True:
     try:
         num = int(input("Input a number you would like to count to: "))

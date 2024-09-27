@@ -1,3 +1,5 @@
+# Guess-the-number game
+
 import random
 
 print('Random number has been generated.')

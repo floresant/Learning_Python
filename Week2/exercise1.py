@@ -1,3 +1,5 @@
+# Check if number is prime
+
 # Inifitely loop until user provides an integer
 print("Please input a number that you would like to check if it is prime or not.")
 while True:
